@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate" : false,
+    "name" : "Instant join TBA mode",
+    "category" : "client",
+    "author" : "SaltyMonkey",
+    "options" : {
+        "guiName" : "Instant join TBA mode",
+        "niceName" : "Instant join TBA mode"
+    },
+    "servers" : [
+        "https://raw.githubusercontent.com/SaltyMonkey/tera-online-instant-join-tba-mode/master/"
+    ]
+}
